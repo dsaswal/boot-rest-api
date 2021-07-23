@@ -64,7 +64,7 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-					       <executions>
+       <!--executions>
             <execution>
                 <goals>
                     <goal>repackage</goal>
@@ -73,7 +73,7 @@
                     <classifier>exec</classifier>
                 </configuration>
             </execution>
-        </executions>
+        </executions-->
 			</plugin>
 		</plugins>
 	</build>
